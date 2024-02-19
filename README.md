@@ -1,7 +1,7 @@
 # PortFollio Website
 
 
-# Project Description:
+# Project Description
 
 This project is a personal portfolio website created using HTML, CSS, and JavaScript. It showcases your skills, projects, experiences, and contact information. The portfolio website serves as a digital resume and a platform to display your work to potential employers, clients, or collaborators.
 
