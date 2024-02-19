@@ -28,7 +28,7 @@ styles.css: This file contains the CSS styles for styling the portfolio website.
 
 app.js: This file contains the JavaScript code for any interactive elements or dynamic content on the portfolio website.
 
-assets/: This directory contains any images, icons, or other static assets used in the portfolio website.
+
 
 Technologies Used
 
